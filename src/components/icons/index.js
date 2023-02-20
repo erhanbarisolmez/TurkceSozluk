@@ -1,0 +1,15 @@
+export {default as Archive} from './Archive';
+export {default as Bookmark} from './Bookmark';
+export {default as FavSolid} from './FavSolid';
+export {default as Fav} from './Fav';
+export {default as HandSolid} from './HandSolid';
+export {default as Hand} from './Hand';
+export {default as Left} from './Left';
+export {default as Logo} from './Logo';
+export {default as More} from './More';
+export {default as Rotate} from './Rotate';
+export {default as Search} from './Search';
+export {default as Search2} from './Search2';
+export {default as VoiceSolid} from './VoiceSolid';
+export {default as Voice} from './Voice';
+export {default as X} from './X';
